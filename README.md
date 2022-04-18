@@ -100,7 +100,7 @@ Below is a sample chart displayed on MongoDB:
 
 ![All Coins Accuracy](Images/All_Coins_Accuracy.png)
 
-Below is a summary of the best model and timeframe to use per coin we chose:
+Below is a sample summary of the best model and timeframe to use per coin we chose:
 
 - ADABUSD
 
