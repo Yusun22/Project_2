@@ -1,6 +1,6 @@
 # getcryptorich.com
 
-### This is a tool that aims to develop a crypto trading tool that compares the accuracy and hypothetical returns of multiple machine-learning model types and time periods for a chosen crypto pair with the intent of optimizing crypto trading algorithms.
+### This tool compares the accuracy and hypothetical returns of multiple machine-learning model types and time periods for a chosen crypto pair to determine which will yield the best results, with the intent of informing and optimizing crypto trading algorithms.
 
 The main research question we wanted to explore was what is the most optimal model and timeframe to use to trade a chosen crypto coin?
 
