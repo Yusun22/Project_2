@@ -2,9 +2,9 @@
 
 ### This tool compares the accuracy and hypothetical returns of multiple machine-learning model types and time periods for a chosen crypto pair to determine which will yield the best results, with the intent of informing and optimizing crypto trading algorithms.
 
-The main research question we wanted to explore was what is the most optimal model and timeframe to use to trade a chosen crypto coin?
+The main research question we wanted to explore was what is the optimal machine learning model and trading timeframe to use for a chosen coin pair when building a crypto trading bot.
 
-- Disclaimer: the content contained in this project is for informational purposes only and should not construe any such information as investment, financial, tax, legal or other advise. Any ideas or strategies discussed herein should not be undertaken by any individual without prior consultation with a financial professional for the purpose of assessing whether the ideas or strategies that are discussed are suitable to you based on your own personal financial objectives, needs and risk tolerance.
+- Disclaimer: the content contained in this project is for informational purposes only and the user should not construe any such information as investment, financial, tax, legal or other advise. Any ideas or strategies discussed herein should not be undertaken by any individual without prior consultation with a financial professional for the purpose of assessing whether the ideas or strategies that are discussed are suitable to you based on your own personal financial objectives, needs and risk tolerance.
 
 ---
 
